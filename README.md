@@ -62,7 +62,7 @@ Test the performance of the webpage after deploy by using [GTmetrix](https://gtm
 ### 👋 Get In Touch
 
 - [🌐 Website 👉 https://amr-elshabrawy-dev.github.io](https://amr-elshabrawy-dev.github.io)
-- [👔 LinkedIn 👉 https://www.linkedin.com/in/amr-elshabrawy-dev](https://www.linkedin.com/in/amrelshabrawy)
+- [👔 LinkedIn 👉 https://www.linkedin.com/in/amr-elshabrawy-dev](https://www.linkedin.com/in/amr-elshabrawy-dev)
 - [🌟 Github 👉 https://github.com/Amr-Elshabrawy-Dev](https://github.com/Amr-Elshabrawy-Dev)
 - [📧 Gmail 👉 amrelshabrawy.dev@gmail.com](mailto:amrelshabrawy.dev@gmail.com)
 - [🐤 Twitter 👉 https://twitter.com/AmrElshbrawy217](https://twitter.com/AmrElshbrawy217)
