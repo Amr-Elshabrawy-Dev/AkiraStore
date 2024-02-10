@@ -55,7 +55,7 @@
 
 Test the performance of the webpage after deploy by using [GTmetrix](https://gtmetrix.com/).
 
-![Project Performance result](./image/tempimg/amr-logo.svg)
+![Project Performance result](./image/tempimg/Performance-Test.webp)
 
 ---
 
