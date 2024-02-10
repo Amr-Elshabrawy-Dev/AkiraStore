@@ -76,4 +76,3 @@ Test the performance of the webpage after deploy by using [GTmetrix](https://gtm
 <p style="margin-bottom:0"> 2023 &copy; Amr Elshabrawy </p>
 </a>
 </div>
->>>>>>> 571c9f9 (add README.md)
